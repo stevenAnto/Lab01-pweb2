@@ -65,9 +65,12 @@
 ### a) Repositorios Individuales
 
 #### - ACO TITO, Anthony Edwin
+Link a Repositorio Individual:
 #### - CALCINA PUMA, Esteven Antonio
+Link a Repositorio Individual:
 #### - CHAMBILLA PERCA, Valentina Milagros
-Se dio la creación
+Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
+Captura de Commits y Contenido:
 
 #### - GALVEZ QUILLA, Henry Isaias
 

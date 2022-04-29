@@ -83,7 +83,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/ValentinaChambillaContenido.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
 
 #### - GALVEZ QUILLA, Henry Isaias
-- Link a Repositorio Individual: 
+- Link a Repositorio Individual: https://github.com/HenryGalvezQ/lab01.git
 - Captura de Commits y Contenido:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezLog.jpg?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.jpg?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
@@ -97,7 +97,9 @@
 4. División: ACO TITO, Anthony Edwin
 5. Módulo: ACO TITO, Anthony Edwin
 - Captura del Historial:
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HistorialActualizaciones.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+- Captura de los Branch:
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/BranchConsole.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 ## II. SOLUCIÓN DE CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?

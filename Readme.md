@@ -62,8 +62,14 @@
 
 ## I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
-- Aprender a manejar un sistema de control de versiones de manera colaborativa con varios
-usuarios
+### a) Repositorios Individuales
+
+#### - ACO TITO, Anthony Edwin
+#### - CALCINA PUMA, Esteven Antonio
+#### - CHAMBILLA PERCA, Valentina Milagros
+Se dio la creación
+
+#### - GALVEZ QUILLA, Henry Isaias
 
 ## II. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 - Git

@@ -89,7 +89,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.jpg?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 ### a) Repositorio Grupal
-- Link a Repositorio Individual: https://github.com/stevenAnto/Lab01-pweb2.git
+- Link a Repositorio Grupal: https://github.com/stevenAnto/Lab01-pweb2.git
 - El estudiante encargado de realizar los merge es: **ESTEVEN ANTONIO CALCINA PUMA**
 - Los encargados de la implementación de los métodos fueron:
 1. Suma: GALVEZ QUILLA, Henry Isaias

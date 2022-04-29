@@ -88,6 +88,17 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvez.PNG?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
+### a) Repositorio Grupal
+- El estudiante encargado de realizar los merge es: **ESTEVEN ANTONIO CALCINA PUMA**
+- Los encargados de la implementación de los métodos fueron:
+1. Suma: GALVEZ QUILLA, Henry Isaias
+2. Resta: CHAMBILLA PERCA, Valentina Milagros
+3. Multiplicación: CALCINA PUMA, Esteven Antonio
+4. División: ACO TITO, Anthony Edwin
+5. Módulo: ACO TITO, Anthony Edwin
+- Captura del Historial:
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+
 ## II. SOLUCIÓN DE CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 

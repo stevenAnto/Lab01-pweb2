@@ -65,11 +65,17 @@
 ### a) Repositorios Individuales
 
 #### - ACO TITO, Anthony Edwin
-Link a Repositorio Individual:
+- Link a Repositorio Individual: 
+- Captura de Commits y Contenido:
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAco.PNG?raw=true" alt="AnthonyAcoCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoContenido.PNG?raw=true" alt="AnthonyAcoCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 #### - CALCINA PUMA, Esteven Antonio
+- Link a Repositorio Individual: 
+- Captura de Commits y Contenido:
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcina.PNG?raw=true" alt="EstevenCalcinaCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcinaContenido.PNG?raw=true" alt="EstevenCalcinaCapContenido" style="width:100%; margin: auto; display: block;"/>
 
-Link a Repositorio Individual:
 #### - CHAMBILLA PERCA, Valentina Milagros
 - Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
 - Captura de Commits y Contenido:
@@ -77,18 +83,25 @@ Link a Repositorio Individual:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/ValentinaChambillaContenido.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
 
 #### - GALVEZ QUILLA, Henry Isaias
+- Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
+- Captura de Commits y Contenido:
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvez.PNG?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 ## II. SOLUCIÓN DE CUESTIONARIO
-- Git
-- GitHub
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
 
 ## III. CONCLUSIONES
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
-- C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
+- Llenar
+- Por
+- Fis
 
 # RETROALIMENTACIÓN GENERAL
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS

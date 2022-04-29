@@ -65,7 +65,7 @@
 ### a) Repositorios Individuales
 
 #### - ACO TITO, Anthony Edwin
-- Link a Repositorio Individual: 
+- Link a Repositorio Individual: https://github.com/atn25042002/Lab_01.git
 - Captura de Commits y Contenido:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoCapCommits.png?raw=true" alt="AnthonyAcoCapCommits" style="width:100%; margin: auto; display: block;"/>
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoCapContenido.png?raw=true" alt="AnthonyAcoCapContenido" style="width:100%; margin: auto; display: block;"/>
@@ -89,6 +89,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.jpg?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 ### a) Repositorio Grupal
+- Link a Repositorio Individual: https://github.com/stevenAnto/Lab01-pweb2.git
 - El estudiante encargado de realizar los merge es: **ESTEVEN ANTONIO CALCINA PUMA**
 - Los encargados de la implementación de los métodos fueron:
 1. Suma: GALVEZ QUILLA, Henry Isaias
@@ -100,6 +101,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HistorialActualizaciones.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 - Captura de los Branch:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/BranchConsole.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+Los otros dos brunch extras a la creaciòn de los mètodos fueron realizados para la edicion del Readme.md y al insertar las imagenes respectivas para este informe.
 
 ## II. SOLUCIÓN DE CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?

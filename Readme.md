@@ -67,14 +67,14 @@
 #### - ACO TITO, Anthony Edwin
 - Link a Repositorio Individual: 
 - Captura de Commits y Contenido:
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAco.PNG?raw=true" alt="AnthonyAcoCapCommits" style="width:100%; margin: auto; display: block;"/>
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoContenido.PNG?raw=true" alt="AnthonyAcoCapContenido" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoCapCommits.png?raw=true" alt="AnthonyAcoCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoCapContenido.png?raw=true" alt="AnthonyAcoCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 #### - CALCINA PUMA, Esteven Antonio
 - Link a Repositorio Individual: https://github.com/stevenAnto/primero.git
 - Captura de Commits y Contenido:
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcina.PNG?raw=true" alt="EstevenCalcinaCapCommits" style="width:100%; margin: auto; display: block;"/>
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcinaContenido.PNG?raw=true" alt="EstevenCalcinaCapContenido" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcinaLog.png?raw=true" alt="EstevenCalcinaCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcinaContenido.png?raw=true" alt="EstevenCalcinaCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 #### - CHAMBILLA PERCA, Valentina Milagros
 - Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
@@ -85,8 +85,8 @@
 #### - GALVEZ QUILLA, Henry Isaias
 - Link a Repositorio Individual: 
 - Captura de Commits y Contenido:
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvez.PNG?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezLog.jpg?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.jpg?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 ### a) Repositorio Grupal
 - El estudiante encargado de realizar los merge es: **ESTEVEN ANTONIO CALCINA PUMA**

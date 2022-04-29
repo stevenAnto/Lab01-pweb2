@@ -95,7 +95,7 @@
     1. Suma: GALVEZ QUILLA, Henry Isaias
     2. Resta: CHAMBILLA PERCA, Valentina Milagros
     3. Multiplicación: CALCINA PUMA, Esteven Antonio
-    4. División: ACO TITO, Anthony Edwin
+    4. División: CALCINA PUMA, Esteven Antonio
     5. Módulo: ACO TITO, Anthony Edwin
 
 - Captura del Historial:

@@ -92,11 +92,11 @@
 - Link a Repositorio Grupal: https://github.com/stevenAnto/Lab01-pweb2.git
 - El estudiante encargado de realizar los merge es: **ESTEVEN ANTONIO CALCINA PUMA**
 - Los encargados de la implementación de los métodos fueron:
-1. Suma: GALVEZ QUILLA, Henry Isaias
-2. Resta: CHAMBILLA PERCA, Valentina Milagros
-3. Multiplicación: CALCINA PUMA, Esteven Antonio
-4. División: ACO TITO, Anthony Edwin
-5. Módulo: ACO TITO, Anthony Edwin
+    1. Suma: GALVEZ QUILLA, Henry Isaias
+    2. Resta: CHAMBILLA PERCA, Valentina Milagros
+    3. Multiplicación: CALCINA PUMA, Esteven Antonio
+    4. División: ACO TITO, Anthony Edwin
+    5. Módulo: ACO TITO, Anthony Edwin
 - Captura del Historial:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HistorialActualizaciones.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 - Captura de los Branch:
@@ -105,7 +105,7 @@ Los otros dos brunch extras a la creaciòn de los mètodos fueron realizados par
 
 ## II. SOLUCIÓN DE CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
-De forma especifica para el curso, las funciones de Git que usamos y son las más útiles en el curso son: Poder acceder, comparar y editar las versiones registradas, y realizar el trabajo de control de versiones de nuestro código de manera rápida y segura. El control de versiones se puede hacer manualmente, pero al  realizarlo de forma manual se corre el riesgo de error humano.
+<br>De forma especifica para el curso, las funciones de Git que usamos y son las más útiles en el curso son: Poder acceder, comparar y editar las versiones registradas, y realizar el trabajo de control de versiones de nuestro código de manera rápida y segura. El control de versiones se puede hacer manualmente, pero al  realizarlo de forma manual se corre el riesgo de error humano.</br>
 
 ## III. CONCLUSIONES
 - Hemos aprendido que git en conjunto con github nos ofrecen herramientas para desarrollar proyectos(codigo) de manera colaborativa( equipo), de manera descentralizada, segura (ya que uno crea espacios trabajos paralelos {ramas}) sin afectar el codigo  fuente de producción .

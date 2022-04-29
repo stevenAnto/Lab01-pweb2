@@ -73,12 +73,12 @@ Link a Repositorio Individual:
 #### - CHAMBILLA PERCA, Valentina Milagros
 - Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
 - Captura de Commits y Contenido:
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/ValentinaCham-patch-1/imagenes/ValentinaChambilla.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
-<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/ValentinaCham-patch-2/imagenes/ValentinaChambillaContenido.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/ValentinaChambilla.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
+<img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/ValentinaChambillaContenido.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
 
 #### - GALVEZ QUILLA, Henry Isaias
 
-## II. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
+## II. SOLUCIÓN DE CUESTIONARIO
 - Git
 - GitHub
 

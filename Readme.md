@@ -105,11 +105,12 @@ Los otros dos brunch extras a la creaciòn de los mètodos fueron realizados par
 
 ## II. SOLUCIÓN DE CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+De forma especifica para el curso, las funciones de Git que usamos y son las más útiles en el curso son: Poder acceder, comparar y editar las versiones registradas, y realizar el trabajo de control de versiones de nuestro código de manera rápida y segura. El control de versiones se puede hacer manualmente, pero al  realizarlo de forma manual se corre el riesgo de error humano.
 
 ## III. CONCLUSIONES
-- Llenar
-- Por
-- Fis
+- Hemos aprendido que git en conjunto con github nos ofrecen herramientas para desarrollar proyectos(codigo) de manera colaborativa( equipo), de manera descentralizada, segura (ya que uno crea espacios trabajos paralelos {ramas}) sin afectar el codigo  fuente de producción .
+- Pudimos realizar el laboratorio, sin mayor problema gracias a la facilidad de uso de Git y Github.
+- El uso de ramas para programar es una gran herramienta para poder trabajar en equipo en git de manera más eficiente
 
 # RETROALIMENTACIÓN GENERAL
 <br></br>

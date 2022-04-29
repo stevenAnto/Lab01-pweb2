@@ -83,7 +83,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/ValentinaChambillaContenido.PNG?raw=true" alt="ValentinaChambillaCapCommits" style="width:100%; margin: auto; display: block;"/>
 
 #### - GALVEZ QUILLA, Henry Isaias
-- Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
+- Link a Repositorio Individual: 
 - Captura de Commits y Contenido:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvez.PNG?raw=true" alt="HenryGalvezCapCommits" style="width:100%; margin: auto; display: block;"/>
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HenryGalvezContenido.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>

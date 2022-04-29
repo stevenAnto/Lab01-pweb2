@@ -71,7 +71,7 @@
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/AnthonyAcoContenido.PNG?raw=true" alt="AnthonyAcoCapContenido" style="width:100%; margin: auto; display: block;"/>
 
 #### - CALCINA PUMA, Esteven Antonio
-- Link a Repositorio Individual: 
+- Link a Repositorio Individual: https://github.com/stevenAnto/primero.git
 - Captura de Commits y Contenido:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcina.PNG?raw=true" alt="EstevenCalcinaCapCommits" style="width:100%; margin: auto; display: block;"/>
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/EstevenCalcinaContenido.PNG?raw=true" alt="EstevenCalcinaCapContenido" style="width:100%; margin: auto; display: block;"/>

@@ -58,18 +58,18 @@
 </table>
 </div>
 
-# OBJETIVOS TEMAS Y COMPETENCIAS
+# SOLUCIÓN Y RESULTADOS
 
-## OBJETIVOS
+## I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
 - Aprender a manejar un sistema de control de versiones de manera colaborativa con varios
 usuarios
 
-## TEMAS
+## II. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 - Git
 - GitHub
 
-## COMPETENCIAS
+## III. CONCLUSIONES
 - C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
 - C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
 - C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.

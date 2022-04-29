@@ -97,8 +97,10 @@
     3. Multiplicación: CALCINA PUMA, Esteven Antonio
     4. División: ACO TITO, Anthony Edwin
     5. Módulo: ACO TITO, Anthony Edwin
+
 - Captura del Historial:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/HistorialActualizaciones.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
+
 - Captura de los Branch:
 <img src="https://github.com/stevenAnto/Lab01-pweb2/blob/main/imagenes/BranchConsole.PNG?raw=true" alt="HenryGalvezCapContenido" style="width:100%; margin: auto; display: block;"/>
 Los otros dos brunch extras a la creaciòn de los mètodos fueron realizados para la edicion del Readme.md y al insertar las imagenes respectivas para este informe.

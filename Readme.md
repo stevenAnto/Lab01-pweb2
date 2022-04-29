@@ -69,9 +69,9 @@ Link a Repositorio Individual:
 #### - CALCINA PUMA, Esteven Antonio
 Link a Repositorio Individual:
 #### - CHAMBILLA PERCA, Valentina Milagros
-Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
-Captura de Commits y Contenido:
-
+-Link a Repositorio Individual: https://github.com/ValentinaCham/Lab1_RepositorioIndividual.git
+-Captura de Commits y Contenido:
+<img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/>
 #### - GALVEZ QUILLA, Henry Isaias
 
 ## II. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
